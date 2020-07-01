@@ -67,7 +67,7 @@ section{
 }
 .client-area{
     text-align: center;
-    background-image: url(images/footer-bg.png);
+    background-image: url("images/footer-bg.png");
     background-repeat: no-repeat;
 }
 .client-area b{
