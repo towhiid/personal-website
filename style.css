@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: deeppink;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.text-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.header-area{
+    background-image: url("Images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 30px;
+    color: #ffffff;
+    font-weight: 700;
+    border-radius: 5px;
+    background-image: linear-gradient(deeppink,magenta);
+}
+.dream-area{
+    background-image: url("Images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+
+.latest-work-area{
+    padding-top: 100px;
+    background-image: url("Images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.latest-h{
+    text-align: center;
+}
+.latest-work{
+    width: 28%;
+    margin-top: 2%;
+    float: left;
+    
+    margin-left: 2%;
+    padding-left: 2%;
+    
+    
+}
+
+.latest-work img{
+    width: 100%;
+}
+.client-area{
+    text-align: center;
+}
+.client-area b{
+    text-align: center;
+    margin-right:0 100px;
+}
